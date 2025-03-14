@@ -7,6 +7,10 @@
 ## redis removal (draft) : https://waypoint.liquidweb.com:8443/pages/viewpage.action?pageId=63212861
 ## again only a guide to help collect info for the site to haveteh services removed.
 
+##Clone this to the LB1 of the cluster you are working on to properly collect the Sentinel Port
+## otherwise you will need to check the file:
+## head -n2 /etc/redis-sentinel.d/<USER>/sentinel.conf
+
 
 ## variables:
 #$DOMAIN
