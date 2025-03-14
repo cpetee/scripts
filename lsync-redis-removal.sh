@@ -184,7 +184,7 @@ port 5001
 
 Port for removal:
 
-echo -e $PORT
+echo -e '$PORT'
 
 
 3.4> remove Sentinel instance from fs1 and node1 and lb1
