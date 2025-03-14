@@ -1,5 +1,13 @@
 #!/bin/bash
 
+## This script is to help gather data and commands used to remove Lsync services and Redis from clusters that had the Site removed and no longer is needed.
+## use this as a guide and not copy and paste for the commands.
+## Info was collected from Nexcess waypoints:
+## Lsync removal (draft): https://waypoint.liquidweb.com:8443/pages/viewpage.action?pageId=63212906
+## redis removal (draft) : https://waypoint.liquidweb.com:8443/pages/viewpage.action?pageId=63212861
+## again only a guide to help collect info for the site to haveteh services removed.
+
+
 ## variables:
 #$DOMAIN
 #$SERVER
